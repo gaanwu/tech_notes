@@ -12,10 +12,10 @@ Note: Collect those useful technical documents
 
 \----
 
-1.  git clone <https://github.com/gaanwu/testproject.git>
+1.  git clone <https://github.com/gaanwu/tech_notes.git>
 
 2.  git commit make some modification and commit
 
-3.  git push
+3.  git push --all ( or git push -u origin main )
+    account: <has to be email address > pw:< Big R > 
 
-4.  git push origin HEAD:master
