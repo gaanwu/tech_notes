@@ -16,6 +16,6 @@ Note: Collect those useful technical documents
 
 2.  git commit make some modification and commit
 
-3.  git push --all ( or git push -u origin main )
-    account: <has to be email address > pw:< Big R > 
+3.  git push --all
+    account: < must to be email address > pw:< Big R > 
 
